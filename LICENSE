@@ -1,0 +1,7 @@
+#Licensing
+
+The licensing for different components in this repo are as follows:
+1. CMSIS:			 Apache License 2.0
+2. STM32 HAL Drivers: 		 BSD-3-Clause license
+3. FreeRTOS: 			 MIT open source license
+4. Others:			 As mentioned in the respective file
